@@ -8,7 +8,7 @@ const data = [
   },
   {
     _id: '2',
-    videoName: 'SHHH! - Jack Sacks X Tate Britain',
+    videoName: 'SHHH! - Jack ',
     channelName: 'Jack Sachs',
     views: '47k',
     image: '/images/2.jpg',
@@ -22,7 +22,7 @@ const data = [
   },
   {
     _id: '4',
-    videoName: 'JMII: BAILAR | Official Music Video',
+    videoName: 'JMII: BAILAR ',
     channelName: 'Dedo Ciego',
     views: '106K',
     image: '/images/4.jpg',
@@ -43,14 +43,14 @@ const data = [
   },
   {
     _id: '7',
-    videoName: 'Monkey Love Experiments',
+    videoName: 'Monkey Love ',
     channelName: 'Ainslie henderson',
     views: '59K',
     image: '/images/7.jpg',
   },
   {
     _id: '8',
-    videoName: 'My child is dreaming',
+    videoName: 'My child is ',
     channelName: 'Mr. klesha animation',
     views: '147K',
     image: '/images/8.jpg',
@@ -67,7 +67,19 @@ const data = [
     videoName: 'Pidge',
     channelName: 'Renee Zhan',
     views: '73K',
-    image: '/images/10.jpg',
+    image: '/images/8.jpg',
+  },{
+    _id: '11',
+    videoName: 'Pidge',
+    channelName: 'Renee Zhan',
+    views: '73K',
+    image: '/images/3.jpg',
+  },{
+    _id: '12',
+    videoName: 'My child is ',
+    channelName: 'Mr. klesha animation',
+    views: '147K',
+    image: '/images/8.jpg',
   },
 ]
 

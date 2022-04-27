@@ -1,16 +1,25 @@
 import React from 'react'
-import { Container, Row, Col } from 'react-bootstrap'
 
-const Footer = () => {
+const Header = () => {
   return (
-    <footer>
-      <Container>
-        <Row>
-          <Col>header</Col>
-        </Row>
-      </Container>
-    </footer>
+    <header>
+      <nav class='navbar navbar-expand-lg navbar-light bg-light'>
+        <div class='container-fluid'>
+          <div>
+            <h1 class='text-muted py-0'>Animation </h1>
+          </div>
+          <div class='collapse navbar-collapse' id='navbarColor03'>
+            <ul class='navbar-nav me-auto'></ul>
+            <form class='d-flex'>
+              <button class='btn btn-outline-info' type='button'>
+                Follow
+              </button>
+            </form>
+          </div>
+        </div>
+      </nav>
+    </header>
   )
 }
 
-export default Footer
+export default Header
